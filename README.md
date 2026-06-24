@@ -45,7 +45,7 @@ admin-dashboard/
 └── vite.config.js
 ⚙️ Installation & Setup
 # Clone repo
-git clone https://github.com/your-username/admin-dashboard.git
+https://github.com/sandip-kumar-jha/React-Admin-Dashboard
 
 # Move into project
 cd admin-dashboard
